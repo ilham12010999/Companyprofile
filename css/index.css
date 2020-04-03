@@ -1,0 +1,114 @@
+.search-icon {
+    color: white;
+}
+
+.log-reg {
+    color: #447aec;
+    text-decoration: none;
+}
+
+.log-reg:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.bg1 {
+    background-color: #404fbe;
+}
+
+.text-1 {
+    color: white;
+    font-weight: bolder;
+}
+
+.img-width {
+    max-width: 100%;
+}
+
+.btn-dcv {
+    border-radius: 25px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.ct-text {
+    color: #bec0d3;
+}
+
+.ct-text1 {
+    font-weight: bolder;
+}
+
+.bg-feature {
+    background-color: #211b31;
+}
+
+.feature-ct {
+    color: whitesmoke;
+}
+
+.feature-text {
+    color: white;
+    font-weight: bolder;
+}
+
+.feature-des {
+    color: white;
+}
+
+.meter {
+    width: 100%;
+    background-color: red;
+}
+
+.acv-text {
+    font-weight: bold;
+}
+
+.acv-text1 {
+    color: #abb8d5;
+}
+
+.card-effect:hover {
+    box-shadow: 1px 6px 39px 0px rgba(0, 0, 0, 0.75);
+}
+
+.porto-text {
+    color: #abb8d5;
+    font-weight: lighter;
+}
+
+.porto-text1 {
+    font-weight: bolder;
+}
+
+.porto-menu {
+    color: #abb1d0;
+}
+
+.porto-menu:hover {
+    color: #25499f;
+}
+
+.porto-img {
+    width: 100%;
+    height: auto;
+}
+
+.porto-img1:hover {
+    background-color: blue;
+    opacity: 20%;
+}
+
+.img-work {
+    width: 100%;
+}
+
+.bg-ctc {
+    background-color: black;
+}
+
+.ctc-text {
+    color: white;
+    font-weight: 900;
+}
