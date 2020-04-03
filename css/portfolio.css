@@ -1,0 +1,45 @@
+.mosh-breadcumb-area {
+    height: 500px;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.bradcumbContent h2 {
+    color: rgb(29, 147, 177);
+    font-size: 60px;
+}
+
+.bradcumbContent .breadcrumb {
+    padding: 0;
+    background-color: transparent;
+    border-radius: 0;
+    margin-top: 10px;
+}
+
+.bradcumbContent .breadcrumb-item a,
+.bradcumbContent .breadcrumb-item {
+    color: rgb(46, 177, 29);
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.filters {
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+
+.filters-content {
+    margin-top: 50px;
+}
+
+
+.item {
+    padding-top: 10%;
+}
